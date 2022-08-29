@@ -1,0 +1,38 @@
+.userInfo {
+    padding: 10px;
+    border: solid black 1px;
+    border-radius: 10px;
+    background: lightblue;
+}
+.expand {
+    width: 90%;
+    position: relative;
+    left: 5%;
+    margin: 20px;
+}
+.titles {
+
+}
+.headers {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    border: solid black 1px;
+    border-radius: 10px;
+    background: lightblue;
+    padding: 20px;
+}
+.post {
+    border: solid black 1px;
+    border-radius: 5px;
+    background: whitesmoke;
+    width: 19%;
+    margin: 5px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.detailsBtn {
+    width: 100%;
+}

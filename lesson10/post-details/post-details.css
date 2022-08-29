@@ -1,0 +1,20 @@
+.post {
+    border: solid black 1px;
+    border-radius: 10px;
+    background: pink;
+    margin: 10px;
+    padding: 20px;
+}
+.comment {
+    border: solid black 1px;
+    border-radius: 10px;
+    background: lightblue;
+    margin: 1%;
+    padding: 1%;
+    width: 20%;
+}
+.commentSection {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
